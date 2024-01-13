@@ -1,0 +1,56 @@
+/* Write your CSS here */
+.main {
+  background-color: brown;
+  padding: 40px;
+  height: 100vh;
+}
+.hh {
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+.main2 {
+  background-color: white;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+}
+.ind {
+  display: flex;
+}
+.im1 {
+  height: 300px;
+}
+.im2 {
+  height: 300px;
+}
+.btns {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.b1 {
+  margin: 30px;
+  background-color: blue;
+  color: white;
+  border: 0px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.b2 {
+  margin: 30px;
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border: 0px;
+  border-radius: 10px;
+}
+.man {
+  color: brown;
+}
+.ban {
+  color: brown;
+}
